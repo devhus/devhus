@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hossam Hassan (aka @devhus)
 - 👀 I’m interested in Programming, Music, and Gaming
 - 📫 Get in touch **devhus01@gmail.com**
-- 🌐 Learn more about me on my perosnal website [devhus.me](https://devhus.me/)
+- 🌐 Learn more about me on my perosnal website [devhus.github.io](https://devhus.github.io/)
 
 ### I simply make ideas come true.
 #### Fullstack & Cross-platform Developer
